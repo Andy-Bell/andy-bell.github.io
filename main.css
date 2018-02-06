@@ -2,23 +2,52 @@ body{
   font-family:Monospace;
 }
 h2{
-  
+  height: 60;
 }
 p{
   
 }
 .wrapper{
-  text-align: center
+  display: flex;
+  align-items: flex-start;
+  text-align: left;
 }
-.navigation{
-  
+
+.made{
+  width: 65%;
+  flex-direction: column;
+  align-content: space-between;
 }
+
 .written{
-  
+  width: 65%;
+  flex-direction: column;
+  align-content: space-between;
 }
-.name{
-  text-align: center
+
+.about{
+  width: 65%;
+  flex-direction: column;
+  align-content: space-between;
 }
-.thanks{
-  font-size: 8pt;
+
+.divider{
+  padding-top: 5px;
+  border-top: 1px solid black;
+}
+.banner{
+  text-align: center;
+  flex-direction: column;
+  justify-content: center;
+  align-self: stretch;
+}
+
+.left-column{
+  width: 20%;
+  padding-right: 20px;
+}
+
+.right-column{
+  justify-content: space-between;
+  flex-wrap: wrap;
 }

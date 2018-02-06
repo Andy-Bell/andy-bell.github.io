@@ -5,9 +5,8 @@
 ## Technology
 Currently Uses
 * [GitHub Pages](http://pages.github.com/)
-* [Analytics Software](https://www.google.co.uk/analytics/)
 
 ## Contact
-#### Developer/Projects spokesman
+#### Developer
 * e-mail: andy.bell.github@gmail.com
 * Twitter: [@andysomniac](https://twitter.com/andysomniac "twitterhandle on twitter")
